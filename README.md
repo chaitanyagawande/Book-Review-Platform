@@ -93,4 +93,10 @@ The Book Review Platform is a full-stack web application that allows users to br
 ## Architecture Diagram
 
 The following diagram represents the 3-tier architecture of the Book Review Platform using AWS services:
+![screenshot](architecture.png)
+
+## Screenshots
+![screenshot](home.png)
+![screenshot](home2.png)
+![screenshot](home3.png)
 
