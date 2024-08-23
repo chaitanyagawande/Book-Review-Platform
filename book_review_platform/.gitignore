@@ -1,0 +1,44 @@
+# Django
+*.log
+*.pot
+*.pyc
+__pycache__/
+db.sqlite3
+media/
+staticfiles/
+
+# If using a virtual environment
+venv/
+ENV/
+env/
+.venv/
+.ENV/
+
+# Pytest cache
+.pytest_cache/
+.tox/
+
+# Coverage reports
+htmlcov/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+
+# MyPy
+.mypy_cache/
+
+# PyCharm
+.idea/
+*.iml
+
+# Visual Studio Code
+.vscode/
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
